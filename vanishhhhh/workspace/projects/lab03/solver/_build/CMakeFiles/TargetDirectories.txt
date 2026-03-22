@@ -1,0 +1,3 @@
+/home/vanish/vanishhhhh/workspace/projects/lab03/solver/_build/CMakeFiles/solver.dir
+/home/vanish/vanishhhhh/workspace/projects/lab03/solver/_build/CMakeFiles/edit_cache.dir
+/home/vanish/vanishhhhh/workspace/projects/lab03/solver/_build/CMakeFiles/rebuild_cache.dir

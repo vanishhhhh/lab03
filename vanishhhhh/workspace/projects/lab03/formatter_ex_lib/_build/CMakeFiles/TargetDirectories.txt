@@ -1,0 +1,3 @@
+/home/vanish/vanishhhhh/workspace/projects/lab03/formatter_ex_lib/_build/CMakeFiles/formatter_ex.dir
+/home/vanish/vanishhhhh/workspace/projects/lab03/formatter_ex_lib/_build/CMakeFiles/edit_cache.dir
+/home/vanish/vanishhhhh/workspace/projects/lab03/formatter_ex_lib/_build/CMakeFiles/rebuild_cache.dir
