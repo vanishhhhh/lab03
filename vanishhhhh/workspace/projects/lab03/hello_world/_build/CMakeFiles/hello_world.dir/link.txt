@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/hello_world.dir/hello_world.cpp.o -o hello_world   -L/home/vanish/vanishhhhh/workspace/projects/lab03/hello_world/../formatter_lib/_build  -L/home/vanish/vanishhhhh/workspace/projects/lab03/hello_world/../formatter_ex_lib/_build  -Wl,-rpath,/home/vanish/vanishhhhh/workspace/projects/lab03/hello_world/../formatter_lib/_build:/home/vanish/vanishhhhh/workspace/projects/lab03/hello_world/../formatter_ex_lib/_build -lformatter_ex -lformatter 
+/usr/bin/c++ CMakeFiles/hello_world.dir/hello_world.cpp.o -o hello_world  -lformatter_ex 

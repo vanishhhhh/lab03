@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/vanish/vanishhhhh/workspace/projects/lab03/solver_lib
 
-CXX_FLAGS = 
+CXX_FLAGS = -std=gnu++11
 
